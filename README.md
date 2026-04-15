@@ -51,7 +51,7 @@
 
 <td align="center" style="padding:10px;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
-<img src="https://cdn.simpleicons.org/c++/white" width="28">
+<img src="https://cdn.simpleicons.org/cplusplus/white" width="28">
 </div>
 </td>
 
