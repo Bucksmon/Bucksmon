@@ -71,7 +71,7 @@
 <div align="center">
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/javascript/white" width="16"> JS
+<img src="https://cdn.simpleicons.org/javascript/white" width="40"> JS
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
