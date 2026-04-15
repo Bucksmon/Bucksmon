@@ -2,6 +2,14 @@
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
 
+<picture>
+  <source srcset="/Image/Dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="/Image/Soft.png" media="(prefers-color-scheme: soft dark)">
+  <img src="/Image/Light.png" alt="Image 1">
+</picture>
+
+
+
 <div align="center">
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
