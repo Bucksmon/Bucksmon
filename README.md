@@ -1,26 +1,27 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<div align="center" style="white-space:nowrap;">
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
 
-<span style="display:inline-block; vertical-align:top;">
+<td valign="top">
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
   <img src="Image/Light.png" width="400">
 </picture>
 
-</span>
+</td>
 
-<span style="display:inline-block; width:30px;"></span>
+<td width="30"></td>
 
-<span style="display:inline-block; vertical-align:top;">
+<td valign="top">
 
-<div style="display:inline-block; width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
+<div style="width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
 
 <h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE</h3>
 
-<div style="line-height:1.8; font-size:15px; text-align:left;">
+<div style="line-height:1.8; font-size:15px;">
 
 <div><b>Class:</b> Full Stack Developer</div>
 <div><b>Reputation:</b> Rising</div>
@@ -44,9 +45,10 @@
 
 </div>
 
-</span>
+</td>
 
-</div>
+</tr>
+</table>
 
 <div align="center">
 
