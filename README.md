@@ -4,11 +4,8 @@
 
 <picture>
   <source srcset="/Image/Dark.png" media="(prefers-color-scheme: dark)">
-  <source srcset="/Image/Soft.png" media="(prefers-color-scheme: soft dark)">
   <img src="/Image/Light.png" alt="Image 1">
 </picture>
-
-
 
 <div align="center">
 
