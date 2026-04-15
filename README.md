@@ -11,10 +11,11 @@
   <img src="Image/Light.png" width="400">
 </picture>
 
-<h2 align="left" style="color:#00ffcc; margin-top:40px;"></h2>
+<div style="border-top:1px solid #00ffcc; margin:40px 0 10px 0;"></div>
 
-<h2 align="left" style="color:#00ffcc; ">🚀 PROJECTS</h2>
-
+<h2 align="left" style="color:#00ffcc; margin:0;">
+  🚀 PROJECTS
+</h2>
 
 </div>
 <div align="center">
