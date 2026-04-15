@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ROW 1 -->
-<span style="display:inline-block; margin:8px;">
+<span style="display:inline-block; margin:80px;">
   <span style="display:inline-block; padding:10px 16px; border:1px solid #00ffcc; border-radius:8px;">
     <img src="https://cdn.simpleicons.org/javascript/white" width="36">
   </span>
