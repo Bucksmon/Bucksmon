@@ -4,78 +4,78 @@
 
 <div align="center">
 
-<table>
+<table style="border:none; border-collapse:collapse;">
 <tr>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/javascript/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/html5/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/css/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/nodedotjs/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/mongodb/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/figma/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/python/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/cplusplus/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/vercel/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/render/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/github/white" width="28">
 </div>
 </td>
 
-<td align="center" style="padding:10px;">
+<td align="center" style="padding:10px; border:none;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
-<img src="https://cdn.simpleicons.org/visualstudiocode/white" width="28">
+<img src="https://cdn.simpleicons.org/visualstudiocode" width="28" style="filter:invert(1);">
 </div>
 </td>
 
