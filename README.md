@@ -27,8 +27,8 @@
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
 <picture>
-  <source srcset="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/shop.svg" media="(prefers-color-scheme: light)">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/shop.svg" width="40">
+  <source srcset="/Image/Royal Road.png" media="(prefers-color-scheme: light)">
+  <img src="/Image/Royal Road.png" width="40">
 </picture>
 </span>&nbsp;&nbsp;
 
