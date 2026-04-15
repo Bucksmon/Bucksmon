@@ -11,11 +11,17 @@
   <img src="Image/Light.png" width="400">
 </picture>
 
+<div align="left">
 
+<div style="border-top:1px solid #00ffcc; margin:40px 0 10px 0;"></div>
 
 <h2 style="color:#00ffcc; margin:0; border-bottom:none;">
   💻 Projects
 </h2>
+
+
+</div>
+
 
 <div align="center">
 
@@ -39,13 +45,21 @@
 
 
 
+<div align="left">
 
-
-
+<div style="border-top:1px solid #00ffcc; margin:40px 0 10px 0;"></div>
 
 <h2 style="color:#00ffcc; margin:0; border-bottom:none;">
   ⚙️ Tech Stack
 </h2>
+
+
+</div>
+
+
+
+
+
 
 <div align="center">
 
