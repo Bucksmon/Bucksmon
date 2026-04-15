@@ -10,47 +10,80 @@
 <div align="center">
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/javascript/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/javascript/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/javascript/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/html5/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/html5/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/html5/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/css/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/css/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/css/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/nodedotjs/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/nodedotjs/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/mongodb/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/mongodb/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/mongodb/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/figma/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/figma/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/figma/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/python/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/python/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/python/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/cplusplus/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/cplusplus/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/cplusplus/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/vercel/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/vercel/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/vercel/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/render/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/render/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<img src="https://cdn.simpleicons.org/github/white" width="40">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/github/white" width="40">
+</picture>
 </span>&nbsp;&nbsp;
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
