@@ -4,7 +4,7 @@
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
-  <img src="Image/Light.png" alt="Image 1" width="500" height="500">
+  <img src="Image/Light.png" alt="Image 1" width="500" height="600">
 </picture>
 
 <div align="center">
