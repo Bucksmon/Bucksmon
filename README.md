@@ -1,9 +1,10 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<table align="center">
+<table align="center" style="border-collapse:collapse;">
 <tr>
-<td>
+
+<td style="border:none;">
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
@@ -12,11 +13,11 @@
 
 </td>
 
-<td style="padding-left:20px; vertical-align:top;">
+<td style="padding-left:30px; vertical-align:top; border:none;">
 
-<div style="display:inline-block; border:1px solid #00ffcc; border-radius:8px; padding:14px;">
+<div style="display:inline-block; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
 
-<h3 style="color:#00ffcc; margin:0 0 10px 0;">🧾 PLAYER PROFILE</h3>
+<h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE</h3>
 
 <div style="line-height:1.8; font-size:15px; text-align:left;">
 
