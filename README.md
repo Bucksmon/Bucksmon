@@ -1,21 +1,22 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<table align="center" style="border-collapse:collapse;">
-<tr>
+<div align="center">
 
-<td style="border:none;">
+<span style="display:inline-block; vertical-align:top;">
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
   <img src="Image/Light.png" width="400">
 </picture>
 
-</td>
+</span>
 
-<td style="padding-left:30px; vertical-align:top; border:none;">
+<span style="display:inline-block; width:30px;"></span>
 
-<div style="display:inline-block; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
+<span style="display:inline-block; vertical-align:top;">
+
+<div style="border:1px solid #00ffcc; border-radius:10px; padding:16px;">
 
 <h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE</h3>
 
@@ -43,9 +44,9 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</span>
+
+</div>
 
 <div align="center">
 
