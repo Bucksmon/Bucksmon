@@ -1,7 +1,7 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<div align="center">
+<div align="center" style="white-space:nowrap;">
 
 <span style="display:inline-block; vertical-align:top;">
 
@@ -16,7 +16,7 @@
 
 <span style="display:inline-block; vertical-align:top;">
 
-<div style="border:1px solid #00ffcc; border-radius:10px; padding:16px;">
+<div style="display:inline-block; width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
 
 <h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE</h3>
 
