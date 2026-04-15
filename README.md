@@ -11,16 +11,42 @@
   <img src="Image/Light.png" width="400">
 </picture>
 
-<div align="left">
 
-<div style="border-top:1px solid #00ffcc; margin:40px 0 10px 0;"></div>
+
+<h2 style="color:#00ffcc; margin:0; border-bottom:none;">
+  💻 Projects
+</h2>
+
+<div align="center">
+
+<span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/javascript/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/javascript/white" width="40">
+</picture>
+</span>&nbsp;&nbsp;
+
+<span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
+<picture>
+  <source srcset="https://cdn.simpleicons.org/html5/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/html5/white" width="40">
+</picture>
+</span>&nbsp;&nbsp;
+
+</div>
+
+
+
+
+
+
+
+
 
 <h2 style="color:#00ffcc; margin:0; border-bottom:none;">
   ⚙️ Tech Stack
 </h2>
 
-</div>
-</div>
 <div align="center">
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
