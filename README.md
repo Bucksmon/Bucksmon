@@ -1,11 +1,46 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
+<table align="center">
+<tr>
+<td>
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
-  <img src="Image/Light.png" alt="Image 1" width="400" height="550">
+  <img src="Image/Light.png" width="400">
 </picture>
+
+</td>
+
+<td style="padding-left:20px; vertical-align:top;">
+
+<h3 style="color:#00ffcc; margin-top:0;">🧾 PLAYER PROFILE</h3>
+
+<div style="line-height:1.8; font-size:15px;">
+
+<div><b>Class:</b> Full Stack Developer</div>
+<div><b>Reputation:</b> Rising</div>
+<div><b>Status:</b> <span style="color:#00ff00;">Online ●</span></div>
+
+<div style="margin-top:10px;">
+<b>Traits:</b>
+<ul style="margin:5px 0 0 18px;">
+<li>Efficient</li>
+<li>Calculated</li>
+<li>Unpredictable 😏</li>
+</ul>
+</div>
+
+<div style="margin-top:10px;">
+<b>Current Mission:</b><br>
+<span style="opacity:0.8;">Building scalable real-world systems</span>
+</div>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
