@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:10px 12px;">
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:100px 12px;">
 <img src="https://cdn.simpleicons.org/javascript/white" width="40"> 
 </span>
 
