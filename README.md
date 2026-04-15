@@ -13,7 +13,7 @@
 
 <h2 align="left" style="color:#00ffcc; margin-top:40px;"></h2>
 
-<h2 align="left" style="color:#00ffcc; ;">🚀 PROJECTS</h2>
+<h2 align="left" style="color:#00ffcc; ">🚀 PROJECTS</h2>
 
 
 </div>
