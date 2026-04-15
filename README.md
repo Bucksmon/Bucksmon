@@ -11,7 +11,7 @@
   <img src="Image/Light.png" width="400">
 </picture>
 
-<h2 style="color:#00ffcc; margin-top:40px;">🚀 PROJECTS</h2>
+<h2 align="left" style="color:#00ffcc; margin-top:40px;">🚀 PROJECTS</h2>
 
 
 </div>
