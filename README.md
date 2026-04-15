@@ -2,16 +2,10 @@
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px;">
-
-<span style="padding:8px 14px; border:1px solid #00ffcc; border-radius:6px;">
-<img src="https://cdn.simpleicons.org/javascript/white" width="40">
-</span>
-
-<span style="padding:8px 14px; border:1px solid #00ffcc; border-radius:6px;">
-<img src="https://cdn.simpleicons.org/html5/white" width="40">
-</span>
-
+<div align="center">
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px;"><img src="https://cdn.simpleicons.org/javascript/white" width="40"></span>&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px;"><img src="https://cdn.simpleicons.org/html5/white" width="40"></span>&nbsp;&nbsp;&nbsp;
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px;"><img src="https://cdn.simpleicons.org/css/white" width="40"></span>
 </div>
 <!--
 **Bucksmon/Bucksmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
