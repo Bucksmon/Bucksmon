@@ -7,7 +7,7 @@
 <span style="display:inline-block; padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/javascript/white" width="28">
 </span>
-<span style="display:inline-block; width:12px;"></span>
+<span style="display:inline-block; width:200px;"></span>
 
 <span style="display:inline-block; padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
 <img src="https://cdn.simpleicons.org/html5/white" width="28">
