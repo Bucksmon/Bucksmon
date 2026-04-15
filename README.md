@@ -3,7 +3,9 @@
 </h1>
 <div align="center" style="white-space:nowrap;">
 
-<span style="display:inline-block; vertical-align:top;">
+<div align="center" style="white-space:nowrap; font-size:0;">
+
+<span style="display:inline-block; vertical-align:top; font-size:initial;">
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
@@ -14,13 +16,13 @@
 
 <span style="display:inline-block; width:30px;"></span>
 
-<span style="display:inline-block; vertical-align:top;">
+<span style="display:inline-block; vertical-align:top; font-size:initial;">
 
-<div style="display:inline-block; width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
+<div style="display:inline-block; width:260px; border:2px solid #00ffcc; border-radius:10px; padding:16px; box-sizing:border-box;">
 
 <h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE.</h3>
 
-<div style="line-height:1.8; font-size:15px; text-align:left;">
+<div style="line-height:1.8; font-size:15px; text-align:left; white-space:normal;">
 
 <div><b>Class:</b> Full Stack Developer</div>
 <div><b>Reputation:</b> Rising</div>
@@ -47,7 +49,6 @@
 </span>
 
 </div>
-
 <div align="center">
 
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
