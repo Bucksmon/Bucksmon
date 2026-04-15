@@ -1,28 +1,24 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
+<div align="center" style="white-space:nowrap;">
 
-<td valign="top">
+<span style="display:inline-block; vertical-align:top;">
 
 <picture>
   <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
   <img src="Image/Light.png" width="400">
 </picture>
 
-</td>
+</span>
 
-<td width="30"></td>
+<span style="display:inline-block; width:30px;"></span>
 
-<td valign="top">
+<span style="display:inline-block; vertical-align:top;">
 
-<!-- 🔒 INNER TABLE = BORDERED CARD -->
-<table cellspacing="0" cellpadding="0" style="border:2px solid #00ffcc; border-radius:10px;">
-<tr>
-<td style="padding:16px;">
+<div style="display:inline-block; width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
 
-<h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE</h3>
+<h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE.</h3>
 
 <div style="line-height:1.8; font-size:15px; text-align:left;">
 
@@ -46,14 +42,11 @@
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
 
-</td>
+</span>
 
-</tr>
-</table>
+</div>
 
 <div align="center">
 
