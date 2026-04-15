@@ -75,9 +75,7 @@
 
 <td align="center" style="padding:10px;">
 <div style="padding:6px 10px; border:1px solid #00ffcc; border-radius:6px;">
-<svg width="28" height="28" viewBox="0 0 128 128" fill="white">
-<path d="M95.8 2.6 47.2 49.5 18.3 27.5 0 41.7l29.3 22L0 85.6l18.3 14.2 28.9-22L95.8 125l32.2-15.8V18.4z"/>
-</svg>
+<img src="https://cdn.simpleicons.org/visualstudiocode/white" width="28">
 </div>
 </td>
 
