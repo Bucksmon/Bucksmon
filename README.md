@@ -16,7 +16,7 @@
 <div style="border-top:1px solid #00ffcc; margin:40px 0 10px 0;"></div>
 
 <h2 style="color:#00ffcc; margin:0; border-bottom:none;">
-  🚀 PROJECTS
+  ⚙️ Tech Stack
 </h2>
 
 </div>
