@@ -8,31 +8,31 @@
 <div align="center">
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/javascript/white" width="40"> JS
+<img src="https://cdn.simpleicons.org/javascript/white" width="40"> 
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/html5/white" width="40"> HTML
+<img src="https://cdn.simpleicons.org/html5/white" width="40"> 
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/css/white" width="40"> CSS
+<img src="https://cdn.simpleicons.org/css/white" width="40"> 
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/nodedotjs/white" width="40"> Node.js
+<img src="https://cdn.simpleicons.org/nodedotjs/white" width="40"> 
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/mongodb/white" width="40"> MongoDB
+<img src="https://cdn.simpleicons.org/mongodb/white" width="40"> 
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/figma/white" width="40"> Figma
+<img src="https://cdn.simpleicons.org/figma/white" width="40"> 
 </span>
 
 <span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
-<img src="https://cdn.simpleicons.org/python/white" width="40"> Python
+<img src="https://cdn.simpleicons.org/python/white" width="40"> 
 </span>
 
 </div>
