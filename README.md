@@ -14,6 +14,8 @@
 
 <td style="padding-left:20px; vertical-align:top;">
 
+<div style="border:1px solid #00ffcc; border-radius:8px; padding:14px;">
+
 <h3 style="color:#00ffcc; margin-top:0;">🧾 PLAYER PROFILE</h3>
 
 <div style="line-height:1.8; font-size:15px;">
@@ -37,6 +39,8 @@
 </div>
 
 </div>
+
+</div> <!-- ✅ border ends here -->
 
 </td>
 </tr>
