@@ -1,33 +1,52 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<p align="center">
+<div align="center" style="white-space:nowrap;">
 
-<img src="Image/Light.png" width="400" style="vertical-align:top;" />
+<span style="display:inline-block; vertical-align:top;">
+
+<picture>
+  <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
+  <img src="Image/Light.png" width="400">
+</picture>
+
+</span>
 
 <span style="display:inline-block; width:30px;"></span>
 
-<span style="display:inline-block; vertical-align:top; width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px; text-align:left;">
+<span style="display:inline-block; vertical-align:top;">
+
+<div style="display:inline-block; width:260px; border:1px solid #00ffcc; border-radius:10px; padding:16px;">
 
 <h3 style="color:#00ffcc; margin:0 0 12px 0;">🧾 PLAYER PROFILE</h3>
 
-<b>Class:</b> Full Stack Developer<br>
-<b>Reputation:</b> Rising<br>
-<b>Status:</b> <span style="color:#00ff00;">Online ●</span><br><br>
+<div style="line-height:1.8; font-size:15px; text-align:left;">
 
+<div><b>Class:</b> Full Stack Developer</div>
+<div><b>Reputation:</b> Rising</div>
+<div><b>Status:</b> <span style="color:#00ff00;">Online ●</span></div>
+
+<div style="margin-top:10px;">
 <b>Traits:</b>
 <ul style="margin:5px 0 0 18px;">
 <li>Efficient</li>
 <li>Calculated</li>
 <li>Unpredictable 😏</li>
 </ul>
+</div>
 
+<div style="margin-top:10px;">
 <b>Current Mission:</b><br>
 <span style="opacity:0.8;">Building scalable real-world systems</span>
+</div>
+
+</div>
+
+</div>
 
 </span>
 
-</p>
+</div>
 
 <div align="center">
 
