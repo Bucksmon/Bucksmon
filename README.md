@@ -35,12 +35,17 @@
 </span>
 
 </a>&nbsp;&nbsp;
+
+<a href="https://github.com/Bucksmon/GtaW-project" target="_blank">
+
 <span style="display:inline-block; border:1px solid #00ffcc; border-radius:6px; padding:6px 10px;">
-<picture>
-  <source srcset="https://cdn.simpleicons.org/html5/black" media="(prefers-color-scheme: light)">
-  <img src="https://cdn.simpleicons.org/html5/white" width="40">
-</picture>
-</span>&nbsp;&nbsp;
+  <picture>
+    <source srcset="Image/Royal Road.png" media="(prefers-color-scheme: light)">
+    <img src="Image/Royal Road.png" width="40">
+  </picture>
+</span>
+
+</a>&nbsp;&nbsp;
 
 </div>
 
