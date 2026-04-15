@@ -31,7 +31,7 @@
   <picture>
     <source srcset="Image/Royal Road.png" media="(prefers-color-scheme: light)">
     <img src="Image/Royal Road.png" width="40">
-  </picture>
+  </picture>Royal Road
 </span>
 
 </a>&nbsp;&nbsp;
