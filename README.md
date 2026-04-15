@@ -2,9 +2,9 @@
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
 
-<picture style="width:50px; height:50px;">
-  <source srcset="/Image/Dark.png" media="(prefers-color-scheme: dark)">
-  <img src="/Image/Light.png" alt="Image 1">
+<picture>
+  <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
+  <img src="Image/Light.png" alt="Image 1" width="50" height="50">
 </picture>
 
 <div align="center">
