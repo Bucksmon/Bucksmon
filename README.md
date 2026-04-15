@@ -3,6 +3,39 @@
 </h1>
 
 
+<h2 style="color:#00ffcc; text-align:center;">⚙️ TECH STACK</h2>
+
+<div align="center">
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/javascript/white" width="40"> JS
+</span>
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/html5/white" width="40"> HTML
+</span>
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/css/white" width="40"> CSS
+</span>
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/nodedotjs/white" width="40"> Node.js
+</span>
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/mongodb/white" width="40"> MongoDB
+</span>
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/figma/white" width="40"> Figma
+</span>
+
+<span style="display:inline-block; padding:8px 14px; border:1px solid #00ffcc; border-radius:6px; margin:6px;">
+<img src="https://cdn.simpleicons.org/python/white" width="40"> Python
+</span>
+
+</div>
 <!--
 **Bucksmon/Bucksmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
