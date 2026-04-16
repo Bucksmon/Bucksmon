@@ -206,7 +206,10 @@
   <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
   <img src="https://cdn.simpleicons.org/render/white" width="28">
 </picture>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+ <picture>
+  <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.simpleicons.org/github/white" width="28">
+</picture>
 </div>
 
 ###
