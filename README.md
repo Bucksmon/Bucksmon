@@ -21,7 +21,23 @@
 
 </div>
 
-<div align="center"> <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> <span style="display:inline-block; background:red; border:2px solid red; border-radius:6px; padding:6px 12px; white-space:nowrap;"> <img src="Image/Royal Road.png" width="40" style="vertical-align:middle; display:inline-block;"> <span style="margin-left:6px; color:white; vertical-align:middle; display:inline-block;"> Royal Road </span> </span> </a>&nbsp;&nbsp; <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> <span style="display:inline-block; background:red; border:2px solid red; border-radius:6px; padding:6px 12px;"> <img src="Image/Royal Road.png" width="40" style="vertical-align:middle;"> </span> </a> </div>
+<div align="center"> 
+  <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> 
+    <span style="display:inline-block; background:red; border:2px solid red; border-radius:6px; padding:6px 12px; white-space:nowrap;"> 
+      <img src="Image/Royal Road.png" width="40" style="vertical-align:middle; display:inline-block;"> 
+      <span style="margin-left:6px; color:white; vertical-align:middle; display:inline-block;"> 
+        Royal Road 
+      </span> 
+    </span> 
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> 
+    <span style="display:inline-block; background:red; border:2px solid red; border-radius:6px; padding:6px 12px;"> 
+      <img src="Image/Royal Road.png" width="40" style="vertical-align:middle;"> 
+    </span> 
+  </a>
+
+</div>
 
 
 
