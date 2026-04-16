@@ -179,7 +179,7 @@
 ###
 
 <div align="left">
-  <p align="left">Tech Stack</p>
+  <p align="left" style="font-size:18px;">Tech Stack</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -222,6 +222,7 @@
 ###
 
 <div align="center">
+  <p align="left">Stats</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bucksmon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
