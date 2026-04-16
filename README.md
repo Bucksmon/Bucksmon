@@ -23,20 +23,25 @@
 
 <div align="center">
 
-<a href="https://github.com/Bucksmon/GtaW-project" target="_blank"
-   style="text-decoration:none; color:inherit;">
+<a href="https://github.com/Bucksmon/GtaW-project" target="_blank" style="text-decoration:none;">
 
   <span style="
-    display:inline-flex;
-    align-items:center;
+    display:inline-block;
     background:red;
     border:2px solid red;
     border-radius:6px;
     padding:6px 12px;
-    gap:6px;
+    line-height:40px;
+    white-space:nowrap;
   ">
-    <img src="Image/Royal Road.png" width="40">
-    <span style="color:white;">
+    <img src="Image/Royal Road.png"
+         width="40"
+         style="vertical-align:middle;">
+    <span style="
+      margin-left:6px;
+      color:white;
+      vertical-align:middle;
+    ">
       Royal Road
     </span>
 
@@ -44,25 +49,25 @@
 
 </a>&nbsp;&nbsp;
 
-<a href="https://github.com/Bucksmon/GtaW-project" target="_blank"
-   style="text-decoration:none; color:inherit;">
+<a href="https://github.com/Bucksmon/GtaW-project" target="_blank" style="text-decoration:none;">
 
   <span style="
-    display:inline-flex;
-    align-items:center;
+    display:inline-block;
     background:red;
     border:2px solid red;
     border-radius:6px;
     padding:6px 12px;
+    line-height:40px;
   ">
-    <img src="Image/Royal Road.png" width="40">
+    <img src="Image/Royal Road.png"
+         width="40"
+         style="vertical-align:middle;">
     
   </span>
 
 </a>
 
 </div>
-
 
 
 
