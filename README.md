@@ -206,6 +206,7 @@
   <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
   <img src="https://cdn.simpleicons.org/render/white" width="28">
 </picture>
+  <img width="12" />
  <picture>
   <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
   <img src="https://cdn.simpleicons.org/github/white" width="28">
