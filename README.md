@@ -181,7 +181,7 @@
 <div align="left">
   <h3 align="left"><strong>⚙️ Tech Stack</strong></h3>
   <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.devicon.dev/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   </span>
   <img width="12" />
   <span>
