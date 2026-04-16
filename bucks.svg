@@ -2,7 +2,7 @@
 
   <!-- 🔹 Background image -->
   <image 
-    href="./Image/Dark.png"
+    src="/Image/Dark.png"
     x="0" y="0"
     width="600" height="120"
     preserveAspectRatio="xMidYMid slice"
