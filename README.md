@@ -23,7 +23,7 @@
 
 <div align="center"> 
   <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> 
-    <span style="display:inline-block; background-color:var(--link-bg, red); border:2px solid var(--link-border, red); border-radius:6px; padding:6px 12px; white-space:nowrap;"> 
+    <span style="display:inline-block; background-color:#dc2626; border:2px solid #991b1b; border-radius:6px; padding:6px 12px; white-space:nowrap;"> 
       <img src="Image/Royal Road.png" width="40" style="vertical-align:middle; display:inline-block;"> 
       <span style="margin-left:6px; color:white; vertical-align:middle; display:inline-block;"> 
         Royal Road 
@@ -32,21 +32,15 @@
   </a>&nbsp;&nbsp;
   
   <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> 
-    <span style="display:inline-block; background-color:var(--link-bg, red); border:2px solid var(--link-border, red); border-radius:6px; padding:6px 12px;"> 
+    <span style="display:inline-block; background-color:#dc2626; border:2px solid #991b1b; border-radius:6px; padding:6px 12px;"> 
       <img src="Image/Royal Road.png" width="40" style="vertical-align:middle;"> 
     </span> 
   </a>
-
-  <!-- Add more links here - just copy the <a> tag and change the href/image -->
+  
+  <!-- Add more links here by copying an <a> tag -->
 
 </div>
 
-<style>
-  :root {
-    --link-bg: red;        /* Change background color here */
-    --link-border: red;    /* Change border color here */
-  }
-</style>
 
 
 
