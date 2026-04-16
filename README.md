@@ -203,14 +203,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <picture>
-  <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
-  <img src="https://cdn.simpleicons.org/render/white" width="28">
-</picture>
+    <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
+    <img src="https://cdn.simpleicons.org/render/white" width="28">
+  </picture>
   <img width="12" />
- <picture>
-  <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
-  <img src="https://cdn.simpleicons.org/github/white" width="28">
-</picture>
+   <picture>
+    <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
+    <img src="https://cdn.simpleicons.org/github/white" width="28">
+  </picture>
 </div>
 
 ###
