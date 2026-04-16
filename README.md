@@ -27,9 +27,7 @@
    style="display:inline-block; border:2px solid red; border-radius:6px; margin:5px; text-decoration:none;">
 
   <span style="display:inline-block; background:red; padding:6px 10px; border-radius:6px;">
-    
     <img src="Image/Royal Road.png" width="40" style="vertical-align:middle;">
-    
     <span style="margin-left:6px; color:white; vertical-align:middle;">
       Royal Road
     </span>
@@ -42,9 +40,7 @@
    style="display:inline-block; border:2px solid red; border-radius:6px; margin:5px; text-decoration:none;">
 
   <span style="display:inline-block; background:red; padding:6px 10px; border-radius:6px;">
-    
     <img src="Image/Royal Road.png" width="40" style="vertical-align:middle;">
-    
   </span>
 
 </a>
