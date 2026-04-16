@@ -180,49 +180,49 @@
 
 <div align="left">
   <h3 align="left"><strong>⚙️ Tech Stack</strong></h3>
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  </span>
+  </picture>
   <img width="12" />
-  <span>
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  </span>
+  </picture>
   <img width="12" />
   <picture>
     <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
