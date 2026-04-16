@@ -1,4 +1,13 @@
 <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- 🔹 Background image -->
+  <image 
+    href="Image/Dark.png"
+    x="0" y="0"
+    width="600" height="120"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
   <style>
     .text {
       font: bold 40px monospace;
@@ -26,5 +35,7 @@
     </filter>
   </defs>
 
+  <!-- 🔹 Neon text on top -->
   <text x="50%" y="50%" class="text">BUCKSMON</text>
+
 </svg>
