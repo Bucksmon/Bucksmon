@@ -5,6 +5,8 @@
 
 
 
+<img src="bucks.svg" />
+
 
 
 
@@ -230,5 +232,3 @@
 
 
 
-
-<img src="bucks.svg" />
