@@ -16,7 +16,7 @@
     <animate attributeName="stroke-dashoffset"
              from="200"
              to="-200"
-             dur="35"
+             dur="1.5s"
              repeatCount="indefinite"/>
     <!-- visibility timing -->
     <animate attributeName="opacity"
