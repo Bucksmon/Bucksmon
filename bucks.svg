@@ -8,7 +8,7 @@
   fill: #6ea8ff;
 
   stroke: #000;          /* black outline */
-  stroke-width: 2px;     /* thickness */
+  stroke-width: 5px;     /* thickness */
   paint-order: stroke fill; /* IMPORTANT: keeps stroke behind fill */
 
   text-anchor: middle;
