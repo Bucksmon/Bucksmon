@@ -2,6 +2,7 @@
 
   <style>
     .title {
+    font: 900 58px monospace;
   fill: #6ea8ff;
 
   stroke: #000;          /* black outline */
