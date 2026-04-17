@@ -16,12 +16,12 @@
     <animate attributeName="stroke-dashoffset"
              from="500"
              to="-80"
-             dur="50"
+             dur="35"
              repeatCount="indefinite"/>
 
     <!-- visibility timing -->
     <animate attributeName="opacity"
-             values="0;1;1;0"
+             values="0,1"
              keyTimes="0;0.2;0.6;1"
              dur="2s"
              repeatCount="indefinite"/>
