@@ -147,4 +147,41 @@
   <!-- ✨ TEXT ON TOP -->
   <text x="50%" y="110" class="title">GTA DEV</text>
 
+<!-- ⚡ SINGLE SHOOTING STREAK -->
+<line x1="300" y1="150" x2="500" y2="150"
+      stroke="#6ea8ff"
+      stroke-width="4"
+      stroke-linecap="round"
+      stroke-dasharray="200"
+      stroke-dashoffset="200"
+      opacity="0">
+
+  <!-- movement -->
+  <animate attributeName="stroke-dashoffset"
+           from="200"
+           to="-200"
+           dur="2s"
+           begin="0s"
+           calcMode="linear"
+           fill="freeze"
+           repeatCount="indefinite"/>
+
+  <!-- smooth fade -->
+  <animate attributeName="opacity"
+           values="0;0.8;1;1;0.8;0"
+           keyTimes="0;0.15;0.3;0.7;0.85;1"
+           dur="2s"
+           begin="0s"
+           calcMode="spline"
+           keySplines="
+             0.4 0 0.2 1;
+             0.4 0 0.2 1;
+             0.4 0 0.2 1;
+             0.4 0 0.2 1;
+             0.4 0 0.2 1"
+           fill="freeze"
+           repeatCount="indefinite"/>
+
+</line>
+
 </svg>
