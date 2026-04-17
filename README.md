@@ -2,9 +2,9 @@
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
 
-
+<picture>
 <img src="bucks.svg" />
-
+</picture>
 ###
 
 <img align="left" height="450" src="Image/Dark.png"  />
