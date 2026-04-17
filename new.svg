@@ -172,15 +172,6 @@
 
   
 
-  <!-- 📝 SUBTEXT -->
-  <text x="500" y="320"
-        text-anchor="middle"
-        font-size="14"
-        fill="#9ca3af"
-        font-family="monospace">
-    GTA DEV SYSTEM INITIALIZED
-  </text>
-
 </svg>
 
 
