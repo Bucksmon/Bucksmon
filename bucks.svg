@@ -115,7 +115,7 @@
   <text x="50%" y="110" class="title">GTA DEV</text>
 
 <!-- ⚡ SINGLE SHOOTING STREAK -->
-<line x1="225" y1="135" x2="565" y2="135"
+<line x1="225" y1="140" x2="565" y2="140"
       stroke="#6ea8ff"
       stroke-width="4"
       stroke-linecap="round"
