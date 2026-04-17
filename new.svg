@@ -9,7 +9,7 @@
         stroke-width="4"
         stroke-linecap="round"
         stroke-dasharray="80 220"
-        stroke-dashoffset="500"
+        stroke-dashoffset="100"
         opacity="0">
 
     <!-- movement -->
