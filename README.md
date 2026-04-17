@@ -5,8 +5,6 @@
 
 <img src="bucks.svg" />
 
-
-
 ###
 
 <img align="left" height="450" src="Image/Dark.png"  />
