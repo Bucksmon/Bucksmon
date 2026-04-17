@@ -1,55 +1,43 @@
-<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 350"
+     width="100%"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <!-- background -->
-  <rect width="100%" height="100%" fill="#050816"/>
+  <defs>
 
-<!-- ⚡ SINGLE SHOOTING STREAK -->
-<line x1="300" y1="150" x2="500" y2="150"
-      stroke="#6ea8ff"
-      stroke-width="4"
-      stroke-linecap="round"
-      stroke-dasharray="200"
-      stroke-dashoffset="200"
-      opacity="0">
+   
 
-  <!-- movement -->
-  <animate attributeName="stroke-dashoffset"
-           from="200"
-           to="-200"
-           dur="2s"
-           begin="0s"
-           calcMode="linear"
-           fill="freeze"
-           repeatCount="indefinite"/>
+  </defs>
 
-  <!-- smooth fade -->
-  <animate attributeName="opacity"
-           values="0;0.8;1;1;0.8;0"
-           keyTimes="0;0.15;0.3;0.7;0.85;1"
-           dur="2s"
-           begin="0s"
-           calcMode="spline"
-           keySplines="
-             0.4 0 0.2 1;
-             0.4 0 0.2 1;
-             0.4 0 0.2 1;
-             0.4 0 0.2 1;
-             0.4 0 0.2 1"
-           fill="freeze"
-           repeatCount="indefinite"/>
+  <!-- 🌌 BG -->
+  <rect width="100%" height="100%" fill="transparent"/>
 
-</line>
+ 
+ 
 
-  <!-- ✨ TEXT -->
-  <text x="50%" y="110"
+  <!-- 🗺️ MINI RADAR -->
+  <g transform="translate(850,260)">
+    <circle r="40" stroke="#6ea8ff" fill="none" opacity="0.3"/>
+    <line x1="0" y1="0" x2="40" y2="0"
+          stroke="#6ea8ff"
+          stroke-width="2">
+      <animateTransform attributeName="transform"
+                        type="rotate"
+                        from="0"
+                        to="360"
+                        dur="3s"
+                        repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  
+
+  <!-- 📝 SUBTEXT -->
+  <text x="500" y="320"
         text-anchor="middle"
-        dominant-baseline="middle"
-        font-size="58"
-        font-family="Impact"
-        fill="#6ea8ff"
-        stroke="#000"
-        stroke-width="5">
-    GTA DEV
+        font-size="14"
+        fill="#9ca3af"
+        font-family="monospace">
+    GTA DEV SYSTEM INITIALIZED
   </text>
 
 </svg>
