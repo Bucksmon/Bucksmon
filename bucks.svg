@@ -3,7 +3,7 @@
   <style>
     .title {
       font: 900 58px monospace;
-      fill: #7fb2ff;
+      fill: #9ec5ff;
       text-anchor: middle;
       dominant-baseline: middle;
       letter-spacing: 6px;
@@ -12,45 +12,64 @@
     }
 
     @keyframes breathe {
-      0%,100% { opacity: 0.92; }
+      0%,100% { opacity: 0.9; }
       50% { opacity: 1; }
     }
 
-    /* ⭐ inner flicker only */
-    .star-inner {
-      animation: starFlicker 2.5s ease-in-out infinite;
+    /* ⭐ RANDOMIZED STAR FLICKER */
+    .star-inner { opacity: 0.2; }
+
+    .s1 { animation: flicker1 2.7s infinite ease-in-out; }
+    .s2 { animation: flicker2 3.3s infinite ease-in-out; }
+    .s3 { animation: flicker3 2.1s infinite ease-in-out; }
+    .s4 { animation: flicker4 3.8s infinite ease-in-out; }
+    .s5 { animation: flicker5 2.9s infinite ease-in-out; }
+
+    @keyframes flicker1 {
+      0%,100% { opacity: 0.1; }
+      40% { opacity: 1; }
+      70% { opacity: 0.3; }
     }
 
-    @keyframes starFlicker {
-      0% { opacity: 0.1; }
+    @keyframes flicker2 {
+      0%,100% { opacity: 0.2; }
       50% { opacity: 1; }
-      100% { opacity: 0.1; }
     }
 
-    /* stagger flickers */
-    .delay1 { animation-delay: 0.3s; }
-    .delay2 { animation-delay: 0.6s; }
-    .delay3 { animation-delay: 1s; }
-    .delay4 { animation-delay: 1.4s; }
-    .delay5 { animation-delay: 1.8s; }
+    @keyframes flicker3 {
+      0%,100% { opacity: 0.15; }
+      30% { opacity: 0.9; }
+      80% { opacity: 0.2; }
+    }
 
-    /* 🚓 police breathing */
+    @keyframes flicker4 {
+      0%,100% { opacity: 0.1; }
+      60% { opacity: 1; }
+    }
+
+    @keyframes flicker5 {
+      0%,100% { opacity: 0.2; }
+      45% { opacity: 1; }
+      75% { opacity: 0.4; }
+    }
+
+    /* 🚓 POLICE LIGHTS (DESYNCED) */
     .redGlow {
-      animation: redPulse 3s ease-in-out infinite;
+      animation: redPulse 3.2s ease-in-out infinite;
     }
 
     .blueGlow {
-      animation: bluePulse 3s ease-in-out infinite;
+      animation: bluePulse 2.7s ease-in-out infinite;
     }
 
     @keyframes redPulse {
-      0%,100% { opacity: 0.15; transform: scale(1); }
-      50% { opacity: 0.35; transform: scale(1.15); }
+      0%,100% { opacity: 0.12; transform: scale(1); }
+      50% { opacity: 0.35; transform: scale(1.18); }
     }
 
     @keyframes bluePulse {
-      0%,100% { opacity: 0.15; transform: scale(1); }
-      50% { opacity: 0.35; transform: scale(1.15); }
+      0%,100% { opacity: 0.12; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(1.2); }
     }
 
   </style>
@@ -61,28 +80,28 @@
       <stop offset="0%" stop-color="#050816"/>
       <stop offset="100%" stop-color="#000"/>
     </linearGradient>
-<filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
-  <!-- soft glow layers -->
-  <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur1"/>
-  <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur2"/>
-  <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur3"/>
 
-  <!-- merge glow + original -->
-  <feMerge>
-    <feMergeNode in="blur3"/>
-    <feMergeNode in="blur2"/>
-    <feMergeNode in="blur1"/>
-    <feMergeNode in="SourceGraphic"/>
-  </feMerge>
-</filter>
+    <!-- 🔥 CLEAN GLOW -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b2"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="b3"/>
+      <feMerge>
+        <feMergeNode in="b3"/>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
+    <!-- 🚓 LIGHTS -->
     <radialGradient id="redLight">
-      <stop offset="0%" stop-color="#ff2a2a" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#ff2a2a" stop-opacity="0.7"/>
       <stop offset="100%" stop-color="transparent"/>
     </radialGradient>
 
     <radialGradient id="blueLight">
-      <stop offset="0%" stop-color="#2a6fff" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#2a6fff" stop-opacity="0.7"/>
       <stop offset="100%" stop-color="transparent"/>
     </radialGradient>
 
@@ -91,37 +110,32 @@
   <!-- 🌌 Background -->
   <rect width="100%" height="100%" fill="url(#bgGradient)"/>
 
-  <!-- ⭐ Random GTA Stars -->
-  <g fill="#ffd95a" stroke="#ffd95a" stroke-width="0.5">
+  <!-- ⭐ STARS (SCATTERED + RANDOMIZED) -->
+  <g stroke="#ffd95a" stroke-width="0.5">
 
-    <!-- star 1 -->
     <g transform="translate(80,40) scale(0.7)">
-      <polygon points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7" fill="none"/>
-      <polygon class="star-inner" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s1" fill="#ffd95a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <!-- star 2 -->
     <g transform="translate(300,30) scale(0.6)">
-      <polygon points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7" fill="none"/>
-      <polygon class="star-inner delay1" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s2" fill="#ffe07a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <!-- star 3 -->
     <g transform="translate(600,50) scale(0.8)">
-      <polygon points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7" fill="none"/>
-      <polygon class="star-inner delay2" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s3" fill="#ffd95a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <!-- star 4 -->
     <g transform="translate(720,30) scale(0.6)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner delay3" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s4" fill="#ffdf6b" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <!-- star 5 -->
     <g transform="translate(500,20) scale(0.5)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner delay4" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s5" fill="#ffd95a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
   </g>
@@ -139,11 +153,11 @@
            L800 170 L800 250 L0 250 Z"
         fill="#05070f"/>
 
-  <!-- 🚓 Static breathing lights -->
-  <circle cx="300" cy="110" r="140" fill="url(#redLight)" class="redGlow"/>
-  <circle cx="500" cy="110" r="140" fill="url(#blueLight)" class="blueGlow"/>
+  <!-- 🚓 LIGHTS BEHIND TEXT -->
+  <circle cx="250" cy="110" r="150" fill="url(#redLight)" class="redGlow"/>
+  <circle cx="400" cy="110" r="150" fill="url(#blueLight)" class="blueGlow"/>
 
-  <!-- ✨ Title -->
+  <!-- ✨ TEXT ON TOP -->
   <text x="50%" y="110" class="title">BUCKSMON</text>
 
 </svg>
