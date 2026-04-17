@@ -1,24 +1,24 @@
-<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 250"
+     width="100%"
+     preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg">
 
   <style>
     .title {
-     font-family: "Orbitron", "Arial Black", Impact, sans-serif;
-  font-weight: 900;
-  font-size: 58px;
-  fill: #6ea8ff;
+      font-family: "Orbitron", "Arial Black", Impact, sans-serif;
+      font-weight: 900;
+      font-size: 58px;
+      fill: #6ea8ff;
 
-  stroke: #000;          /* black outline */
-  stroke-width: 5px;     /* thickness */
-  paint-order: stroke fill; /* IMPORTANT: keeps stroke behind fill */
+      stroke: #000;
+      stroke-width: 5px;
+      paint-order: stroke fill;
 
-  text-anchor: middle;
-  dominant-baseline: middle;
-  letter-spacing: 6px;
-}
+      text-anchor: middle;
+      dominant-baseline: middle;
+      letter-spacing: 6px;
+    }
 
-
-
-    /* ⭐ RANDOMIZED STAR FLICKER */
     .star-inner { opacity: 0.2; }
 
     .s1 { animation: flicker1 2.7s infinite ease-in-out; }
@@ -54,14 +54,9 @@
       45% { opacity: 1; }
       75% { opacity: 0.4; }
     }
-
   </style>
 
   <defs>
-
-  
-
-    <!-- 🔥 CLEAN GLOW -->
     <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b1"/>
       <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b2"/>
@@ -73,82 +68,70 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-
-
   </defs>
 
   <!-- 🌌 Background -->
-  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  <rect width="100%" height="100%" fill="#050816"/>
 
-  <!-- ⭐ STARS (SCATTERED + RANDOMIZED) -->
+  <!-- ⭐ STARS -->
   <g stroke="#ffd95a" stroke-width="0.5">
 
     <g transform="translate(80,40) scale(0.7)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s1" fill="#ffd95a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s1" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
     <g transform="translate(300,30) scale(0.6)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s2" fill="#ffe07a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s2" fill="#ffe07a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
     <g transform="translate(600,50) scale(0.8)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s3" fill="#ffd95a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s3" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
     <g transform="translate(720,30) scale(0.6)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s4" fill="#ffdf6b" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s4" fill="#ffdf6b"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
     <g transform="translate(500,20) scale(0.5)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s5" fill="#ffd95a" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s5" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
   </g>
 
-
-  <!-- ✨ TEXT ON TOP -->
+  <!-- ✨ TEXT -->
   <text x="50%" y="110" class="title">GTA DEV</text>
 
-<!-- ⚡ SINGLE SHOOTING STREAK -->
-<line x1="225" y1="140" x2="565" y2="140"
-      stroke="#6ea8ff"
-      stroke-width="4"
-      stroke-linecap="round"
-      stroke-dasharray="400"
-      stroke-dashoffset="400"
-      opacity="0">
+  <!-- ⚡ UNDERLINE -->
+  <line x1="225" y1="140" x2="565" y2="140"
+        stroke="#6ea8ff"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-dasharray="400"
+        stroke-dashoffset="400"
+        opacity="0">
 
-  <!-- movement -->
-  <animate attributeName="stroke-dashoffset"
-           from="400"
-           to="-400"
-           dur="2s"
-           begin="0s"
-           calcMode="linear"
-           fill="freeze"
-           repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset"
+             from="400"
+             to="-400"
+             dur="2s"
+             repeatCount="indefinite"/>
 
-  <!-- smooth fade -->
-  <animate attributeName="opacity"
-           values="0;0.8;1;1;0.8;0"
-           keyTimes="0;0.15;0.3;0.7;0.85;1"
-           dur="2s"
-           begin="0s"
-           calcMode="spline"
-           keySplines="
-             0.4 0 0.2 1;
-             0.4 0 0.2 1;
-             0.4 0 0.2 1;
-             0.4 0 0.2 1;
-             0.4 0 0.2 1"
-           fill="freeze"
-           repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0;0.8;1;1;0.8;0"
+             keyTimes="0;0.15;0.3;0.7;0.85;1"
+             dur="2s"
+             repeatCount="indefinite"/>
 
-</line>
+  </line>
 
 </svg>
