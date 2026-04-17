@@ -62,21 +62,7 @@
              repeatCount="indefinite"/>
   </circle>
 
-  <!-- ⚡ SHOCKWAVE -->
-  <circle cx="500" cy="175" r="25"
-          stroke="#6ea8ff"
-          fill="none"
-          stroke-width="2"
-          opacity="0.5">
-    <animate attributeName="r"
-             from="25" to="260"
-             dur="2s"
-             repeatCount="indefinite"/>
-    <animate attributeName="opacity"
-             values="0.5;0"
-             dur="2s"
-             repeatCount="indefinite"/>
-  </circle>
+ 
 
   <!-- 🎯 LOCK-ON RETICLE -->
   <g transform="translate(500,175)" opacity="0.6">
