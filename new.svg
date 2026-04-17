@@ -2,6 +2,44 @@
      width="100%"
      xmlns="http://www.w3.org/2000/svg">
 
+
+<style>
+      .star-inner { opacity: 0.2; }
+
+    .s1 { animation: flicker1 2.7s infinite ease-in-out; }
+    .s2 { animation: flicker2 3.3s infinite ease-in-out; }
+    .s3 { animation: flicker3 2.1s infinite ease-in-out; }
+    .s4 { animation: flicker4 3.8s infinite ease-in-out; }
+    .s5 { animation: flicker5 2.9s infinite ease-in-out; }
+
+    @keyframes flicker1 {
+      0%,100% { opacity: 0.1; }
+      40% { opacity: 1; }
+      70% { opacity: 0.3; }
+    }
+
+    @keyframes flicker2 {
+      0%,100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes flicker3 {
+      0%,100% { opacity: 0.15; }
+      30% { opacity: 0.9; }
+      80% { opacity: 0.2; }
+    }
+
+    @keyframes flicker4 {
+      0%,100% { opacity: 0.1; }
+      60% { opacity: 1; }
+    }
+
+    @keyframes flicker5 {
+      0%,100% { opacity: 0.2; }
+      45% { opacity: 1; }
+      75% { opacity: 0.4; }
+    }
+</style>
  <defs>
 
  
@@ -48,7 +86,41 @@
           stroke="#1f2937"/>
   </g>
 
- 
+   <!-- ⭐ STARS -->
+  <g stroke="#ffd95a" stroke-width="0.5">
+
+    <g transform="translate(80,40) scale(0.7)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s1" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(300,30) scale(0.6)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s2" fill="#ffe07a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(600,50) scale(0.8)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s3" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(720,30) scale(0.6)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s4" fill="#ffdf6b"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(500,20) scale(0.5)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s5" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+  </g>
+
 
   <!-- ⚡ SHOCKWAVE -->
   <circle cx="500" cy="175" r="25"
