@@ -8,7 +8,7 @@
         stroke="#6ea8ff"
         stroke-width="4"
         stroke-linecap="round"
-        stroke-dasharray="20 50"
+        stroke-dasharray="200"
         stroke-dashoffset="100"
         opacity="0">
 
