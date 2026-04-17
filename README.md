@@ -98,6 +98,7 @@
 <picture>
 <img src="https://raw.githubusercontent.com/Bucksmon/Bucksmon/output/snake.svg" alt="Snake animation" />
 </picture>
+
 ###
 
 
