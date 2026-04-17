@@ -19,8 +19,18 @@
              dur="1.5s"
              repeatCount="indefinite"/>
     <!-- visibility timing -->
-
-
+<animate attributeName="opacity"
+         values="0;0.8;1;1;0.8;0"
+         keyTimes="0;0.15;0.3;0.7;0.85;1"
+         dur="2s"
+         calcMode="spline"
+         keySplines="
+           0.4 0 0.2 1;
+           0.4 0 0.2 1;
+           0.4 0 0.2 1;
+           0.4 0 0.2 1;
+           0.4 0 0.2 1"
+         repeatCount="indefinite"/>
   </line>
 
   <!-- ✨ TEXT -->
