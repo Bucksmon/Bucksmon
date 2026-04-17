@@ -153,16 +153,6 @@
 
  
 
-  <!-- ⚡ ELECTRIC OVERLAY -->
-  <text x="500" y="150"
-        text-anchor="middle"
-        font-size="90"
-        font-family="Impact"
-        fill="#6ea8ff"
-        opacity="0.4"
-        filter="url(#warp)">
-    GTA
-  </text>
 
 
 
