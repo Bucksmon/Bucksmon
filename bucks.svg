@@ -165,6 +165,6 @@
   <circle cx="400" cy="110" r="150" fill="url(#blueLight)" class="blueGlow"/>
 
   <!-- ✨ TEXT ON TOP -->
-  <text x="50%" y="110" class="title">🎮GTA DEV</text>
+  <text x="50%" y="110" class="title">GTA DEV</text>
 
 </svg>
