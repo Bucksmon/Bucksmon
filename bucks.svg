@@ -2,7 +2,9 @@
 
   <style>
     .title {
-    font: 900 58px monospace;
+     font-family: Impact, Haettenschweiler, "Arial Black", sans-serif;
+  font-weight: 900;
+  font-size: 58px;
   fill: #6ea8ff;
 
   stroke: #000;          /* black outline */
