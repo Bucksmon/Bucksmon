@@ -1,47 +1,6 @@
 <h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
   ⚠️ WARNING: WORK IN PROGRESS ⚠️
 </h1>
-<div align="center" style="white-space:nowrap;">
-
-<div align="center" style="white-space:nowrap; font-size:0;">
-
-
-<picture>
-  <source srcset="Image/Dark.png" media="(prefers-color-scheme: dark)">
-  <img src="Image/Light.png" width="400">
-</picture>
-
-<div align="left">
-
-<div style="border-top:1px solid #00ffcc; margin:40px 0 10px 0;"></div>
-
-<h2 style="color:#00ffcc; margin:0;">
-  💻 Projects
-</h2>
-
-</div>
-
-<div align="center"> 
-  <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> 
-    <span style="display:inline-block; background-color:#dc2626; border:2px solid #991b1b; border-radius:6px; padding:6px 12px; white-space:nowrap;"> 
-      <img src="Image/Royal Road.png" width="40" style="vertical-align:middle; display:inline-block;"> 
-      <span style="margin-left:6px; color:white; vertical-align:middle; display:inline-block;"> 
-        Royal Road 
-      </span> 
-    </span> 
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://github.com/Bucksmon/GtaW-project" target="_blank"> 
-    <span style="display:inline-block; background-color:#dc2626; border:2px solid #991b1b; border-radius:6px; padding:6px 12px;"> 
-      <img src="Image/Royal Road.png" width="40" style="vertical-align:middle;"> 
-    </span> 
-  </a>
-  
-  <!-- Add more links here by copying an <a> tag -->
-
-</div>
-
-
 
 
 
