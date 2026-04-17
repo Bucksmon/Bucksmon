@@ -122,7 +122,9 @@
 
 
 
-
+<picture>
+<img src="new.svg" />
+</picture>
 
 
 
