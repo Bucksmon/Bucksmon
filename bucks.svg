@@ -14,7 +14,6 @@
   text-anchor: middle;
   dominant-baseline: middle;
   letter-spacing: 6px;
-  filter: url(#neonGlow);
   animation: breathe 4s ease-in-out infinite;
 }
 
