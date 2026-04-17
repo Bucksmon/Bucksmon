@@ -99,7 +99,7 @@
   </defs>
 
   <!-- 🌌 Background -->
-  <rect width="100%" height="100%" fill="url(#bgGradient)"/>
+  <rect width="100%" height="100%" "/>
 
   <!-- ⭐ STARS (SCATTERED + RANDOMIZED) -->
   <g stroke="#ffd95a" stroke-width="0.5">
