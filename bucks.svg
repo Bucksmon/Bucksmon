@@ -3,7 +3,7 @@
   <style>
     .title {
       font: 900 58px monospace;
-      fill: #9ec5ff;
+      fill: #6ea8ff;
       text-anchor: middle;
       dominant-baseline: middle;
       letter-spacing: 6px;
@@ -158,6 +158,6 @@
   <circle cx="400" cy="110" r="150" fill="url(#blueLight)" class="blueGlow"/>
 
   <!-- ✨ TEXT ON TOP -->
-  <text x="50%" y="110" class="title">BUCKSMON</text>
+  <text x="50%" y="110" class="title">GTA DEV</text>
 
 </svg>
