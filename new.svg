@@ -52,17 +52,23 @@
           stroke="#1f2937"/>
   </g>
 
-  <!-- ⚡ ENERGY CORE -->
+ 
+
+  <!-- ⚡ SHOCKWAVE -->
   <circle cx="500" cy="175" r="25"
-          fill="#6ea8ff"
-          opacity="0.3">
+          stroke="#6ea8ff"
+          fill="none"
+          stroke-width="2"
+          opacity="0.5">
     <animate attributeName="r"
-             values="25;90;25"
+             from="25" to="260"
+             dur="2s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0.5;0"
              dur="2s"
              repeatCount="indefinite"/>
   </circle>
-
- 
 
   <!-- 🎯 LOCK-ON RETICLE -->
   <g transform="translate(500,175)" opacity="0.6">
