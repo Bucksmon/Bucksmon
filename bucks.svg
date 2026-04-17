@@ -55,25 +55,6 @@
       75% { opacity: 0.4; }
     }
 
-    /* 🚓 POLICE LIGHTS (DESYNCED) */
-    .redGlow {
-      animation: redPulse 3.2s ease-in-out infinite;
-    }
-
-    .blueGlow {
-      animation: bluePulse 2.7s ease-in-out infinite;
-    }
-
-    @keyframes redPulse {
-      0%,100% { opacity: 0.12; transform: scale(1); }
-      50% { opacity: 0.35; transform: scale(1.18); }
-    }
-
-    @keyframes bluePulse {
-      0%,100% { opacity: 0.12; transform: scale(1); }
-      50% { opacity: 0.4; transform: scale(1.2); }
-    }
-
   </style>
 
   <defs>
@@ -93,16 +74,6 @@
       </feMerge>
     </filter>
 
-    <!-- 🚓 LIGHTS -->
-    <radialGradient id="redLight">
-      <stop offset="0%" stop-color="#ff2a2a" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </radialGradient>
-
-    <radialGradient id="blueLight">
-      <stop offset="0%" stop-color="#2a6fff" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </radialGradient>
 
   </defs>
 
@@ -139,10 +110,6 @@
 
   </g>
 
-
-  <!-- 🚓 LIGHTS BEHIND TEXT -->
-  <circle cx="250" cy="110" r="20" fill="url(#redLight)" class="redGlow"/>
-  <circle cx="400" cy="110" r="20" fill="url(#blueLight)" class="blueGlow"/>
 
   <!-- ✨ TEXT ON TOP -->
   <text x="50%" y="110" class="title">GTA DEV</text>
