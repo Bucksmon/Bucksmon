@@ -5,7 +5,7 @@
 
   <style>
     .title {
-   font-family: Impact, "Arial Black", sans-serif;
+  font-family: "HK Modular";
       font-weight: 900;
       font-size: 58px;
       fill: #6ea8ff;
