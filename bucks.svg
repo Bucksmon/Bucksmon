@@ -119,14 +119,14 @@
       stroke="#6ea8ff"
       stroke-width="4"
       stroke-linecap="round"
-      stroke-dasharray="500"
-      stroke-dashoffset="500"
+      stroke-dasharray="1000"
+      stroke-dashoffset="1000"
       opacity="0">
 
   <!-- movement -->
   <animate attributeName="stroke-dashoffset"
-           from="500"
-           to="-500"
+           from="1000"
+           to="-1000"
            dur="2s"
            begin="0s"
            calcMode="linear"
