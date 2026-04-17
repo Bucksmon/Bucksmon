@@ -57,17 +57,7 @@
   </style>
 
   <defs>
-    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b1"/>
-      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b2"/>
-      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="b3"/>
-      <feMerge>
-        <feMergeNode in="b3"/>
-        <feMergeNode in="b2"/>
-        <feMergeNode in="b1"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    
   </defs>
 
   <!-- 🌌 Background -->
