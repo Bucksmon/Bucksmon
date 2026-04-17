@@ -142,24 +142,12 @@
 
   </g>
 
-  <!-- 🌆 Skyline -->
-  <path d="M0 190 
-           L50 160 L70 190 
-           L120 150 L140 190
-           L200 140 L230 190
-           L300 160 L330 190
-           L400 130 L430 190
-           L500 150 L530 190
-           L600 160 L630 190
-           L700 140 L730 190
-           L800 170 L800 250 L0 250 Z"
-        fill="#05070f"/>
 
   <!-- 🚓 LIGHTS BEHIND TEXT -->
   <circle cx="250" cy="110" r="150" fill="url(#redLight)" class="redGlow"/>
   <circle cx="400" cy="110" r="150" fill="url(#blueLight)" class="blueGlow"/>
 
   <!-- ✨ TEXT ON TOP -->
-  <text x="50%" y="110" class="title">🎮GTA DEV</text>
+  <text x="50%" y="110" class="title">GTA DEV</text>
 
 </svg>
