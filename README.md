@@ -91,7 +91,7 @@
   </picture>
 </div>
 
-<br clear="both">
+<br clear="both" align="center">
 <picture>
 <img src="https://raw.githubusercontent.com/Bucksmon/Bucksmon/output/snake.svg" alt="Snake animation" />
 </picture>
