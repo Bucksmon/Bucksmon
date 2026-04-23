@@ -1,0 +1,253 @@
+<svg viewBox="0 0 1000 350"
+     width="100%"
+     xmlns="http://www.w3.org/2000/svg">
+
+
+<style>
+      .star-inner { opacity: 0.2; }
+
+    .s1 { animation: flicker1 2.7s infinite ease-in-out; }
+    .s2 { animation: flicker2 3.3s infinite ease-in-out; }
+    .s3 { animation: flicker3 2.1s infinite ease-in-out; }
+    .s4 { animation: flicker4 3.8s infinite ease-in-out; }
+    .s5 { animation: flicker5 2.9s infinite ease-in-out; }
+
+    @keyframes flicker1 {
+      0%,100% { opacity: 0.1; }
+      40% { opacity: 1; }
+      70% { opacity: 0.3; }
+    }
+
+    @keyframes flicker2 {
+      0%,100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes flicker3 {
+      0%,100% { opacity: 0.15; }
+      30% { opacity: 0.9; }
+      80% { opacity: 0.2; }
+    }
+
+    @keyframes flicker4 {
+      0%,100% { opacity: 0.1; }
+      60% { opacity: 1; }
+    }
+
+    @keyframes flicker5 {
+      0%,100% { opacity: 0.2; }
+      45% { opacity: 1; }
+      75% { opacity: 0.4; }
+    }
+</style>
+ <defs>
+
+ 
+
+    <!-- ⚡ GLOW -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2"/>
+      <feGaussianBlur stdDeviation="6"/>
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+
+    <!-- ⚡ CHAOTIC DISTORTION -->
+    <filter id="warp">
+      <feTurbulence type="fractalNoise"
+                    baseFrequency="0.01"
+                    numOctaves="3"
+                    seed="2">
+        <animate attributeName="seed"
+                 values="2;8;3;10;2"
+                 dur="3s"
+                 repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" scale="6"/>
+    </filter>
+
+    <!-- 🎯 TARGET RETICLE -->
+    <g id="reticle">
+      <circle r="40" stroke="#6ea8ff" fill="none" stroke-width="1"/>
+      <circle r="20" stroke="#6ea8ff" fill="none" stroke-width="1"/>
+      <line x1="-50" x2="-20" stroke="#6ea8ff"/>
+      <line x1="50" x2="20" stroke="#6ea8ff"/>
+      <line y1="-50" y2="-20" stroke="#6ea8ff"/>
+      <line y1="50" y2="20" stroke="#6ea8ff"/>
+    </g>
+
+  </defs>
+
+  <!-- 🌌 BACKGROUND -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- 🎮 PARALLAX GRID -->
+  <g opacity="0.15">
+    <path d="M0 300 L1000 300 M0 250 L1000 250 M0 200 L1000 200"
+          stroke="#1f2937"/>
+  </g>
+
+   <!-- ⭐ STARS -->
+  <g stroke="#ffd95a" stroke-width="0.5">
+
+    <g transform="translate(80,40) scale(0.7)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s1" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(300,30) scale(0.6)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s2" fill="#ffe07a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(600,50) scale(0.8)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s3" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(720,30) scale(0.6)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s4" fill="#ffdf6b"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+    <g transform="translate(500,20) scale(0.5)">
+      <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+      <polygon class="star-inner s5" fill="#ffd95a"
+        points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
+    </g>
+
+  </g>
+
+
+  <!-- ⚡ SHOCKWAVE -->
+  <circle cx="500" cy="175" r="25"
+          stroke="#6ea8ff"
+          fill="none"
+          stroke-width="2"
+          opacity="0.5">
+    <animate attributeName="r"
+             from="25" to="260"
+             dur="2s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0.5;0"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 🎯 LOCK-ON RETICLE -->
+  <g transform="translate(500,175)" opacity="0.6">
+    <use href="#reticle">
+      <animateTransform attributeName="transform"
+                        type="rotate"
+                        from="0" to="360"
+                        dur="6s"
+                        repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  
+
+  <!-- ⚡ CROSS ENERGY BEAMS -->
+  <g stroke="#6ea8ff" stroke-width="1" opacity="0.2">
+    <line x1="0" y1="0" x2="1000" y2="350">
+      <animate attributeName="opacity"
+               values="0.1;0.4;0.1"
+               dur="2s"
+               repeatCount="indefinite"/>
+    </line>
+    <line x1="1000" y1="0" x2="0" y2="350">
+      <animate attributeName="opacity"
+               values="0.1;0.4;0.1"
+               dur="2.2s"
+               repeatCount="indefinite"/>
+    </line>
+  </g>
+
+ 
+
+  <!-- ⚡ PARTICLE SYSTEM -->
+  <g fill="#8affff" filter="url(#glow)">
+
+    <!-- multiple offsets = fake randomness -->
+    <circle cx="500" cy="175" r="2">
+      <animate attributeName="cx" values="500;650" dur="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="175;100" dur="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="0.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="500" cy="175" r="2">
+      <animate attributeName="cx" values="500;350" dur="0.7s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="175;250" dur="0.7s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="0.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="500" cy="175" r="2">
+      <animate attributeName="cx" values="500;700" dur="0.5s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="175;200" dur="0.5s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+ 
+
+
+
+
+  <!-- 🧠 SYSTEM TEXT -->
+  <text x="500" y="320"
+        text-anchor="middle"
+        font-size="14"
+        fill="#9ca3af"
+        font-family="monospace">
+    TARGET LOCKED • ENERGY STABLE • RENDER PIPELINE ACTIVE
+  </text>
+
+ 
+
+  <!-- 🗺️ MINI RADAR -->
+  <g transform="translate(850,260)">
+    <circle r="40" stroke="#6ea8ff" fill="none" opacity="0.3"/>
+    <line x1="0" y1="0" x2="40" y2="0"
+          stroke="#6ea8ff"
+          stroke-width="2">
+      <animateTransform attributeName="transform"
+                        type="rotate"
+                        from="0"
+                        to="360"
+                        dur="3s"
+                        repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  
+
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
