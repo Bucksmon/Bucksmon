@@ -15,7 +15,7 @@
 </picture>
 
 ###
-<br> <br>
+<br>
 <div align="left">
   <h3 align="left"><strong>⚙️ Tech Stack</strong></h3>
   <picture>
