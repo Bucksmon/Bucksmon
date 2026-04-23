@@ -96,33 +96,33 @@
   <!-- ⭐ STARS -->
   <g stroke="#ffd95a" stroke-width="0.5">
 
-    <g transform="translate(100,40) scale(0.7)">
+    <g transform="translate(150,40) scale(1)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s1" fill="#ffd95a"
+      <polygon class="star-inner s1" fill="#6ea8ff"
         points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <g transform="translate(350,30) scale(0.6)">
+    <g transform="translate(350,30) scale(0.8)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s2" fill="#ffe07a"
+      <polygon class="star-inner s2" fill="#6ea8ff"
         points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <g transform="translate(800,50) scale(0.8)">
+    <g transform="translate(900,50) scale(1.2)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s3" fill="#ffd95a"
+      <polygon class="star-inner s3" fill="#6ea8ff"
         points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <g transform="translate(750,30) scale(0.6)">
+    <g transform="translate(750,30) scale(0.75)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s4" fill="#ffdf6b"
+      <polygon class="star-inner s4" fill="#6ea8ff"
         points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
-    <g transform="translate(600,20) scale(0.5)">
+    <g transform="translate(600,20) scale(0.9)">
       <polygon fill="none" points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
-      <polygon class="star-inner s5" fill="#ffd95a"
+      <polygon class="star-inner s5" fill="#6ea8ff"
         points="10,0 13,7 20,7 14.5,11.5 17,18 10,14 3,18 5.5,11.5 0,7 7,7"/>
     </g>
 
