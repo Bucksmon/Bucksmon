@@ -1,7 +1,8 @@
-<svg viewBox="0 0 800 150"
+<svg viewBox="0 0 1000 350"
      width="100%"
      preserveAspectRatio="xMidYMid meet"
-     xmlns="http://www.w3.org/2000/svg">
+     xmlns="http://www.w3.org/2000/svg"
+     style="overflow: visible;">
 
   <style>
     .title {
