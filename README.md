@@ -101,36 +101,3 @@
 </picture>
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
-  ⚠️ ANYTHING BELOW THIS IS IN TESTING ⚠️
-</h1>
-
-
-
-
-<picture>
-<img src="new.svg" />
-</picture>
-
-
-
-
-
