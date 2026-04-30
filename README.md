@@ -72,6 +72,14 @@
     <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
     <img src="https://cdn.simpleicons.org/github/white" width="28">
   </picture>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
 
 ###
@@ -81,11 +89,10 @@
   <h3 align="left"><strong>👤 About me</strong></h3>
    <div align="left" height="35">
  
-[![Discord](https://img.shields.io/badge/Angel_nunez4-7289DA?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/338369898487087107)
-[![YouTube](https://img.shields.io/badge/Code%20Drip-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeDripstar)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16184299/bucksmon)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bucksmon)
-
+[![Discord](https://img.shields.io/static/v1?message=Angel_nunez4&logo=discord&label=&color=black&logoColor=7289DA&labelColor=&style=for-the-badge)](https://discord.com/users/338369898487087107)
+[![YouTube](https://img.shields.io/static/v1?message=Code%20Drip&logo=youtube&label=&color=black&logoColor=FF0000&labelColor=&style=for-the-badge)](https://www.youtube.com/@CodeDripstar)
+![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=black&logoColor=FE7A16&labelColor=&style=for-the-badge)
+[![Codepen](https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=black&logoColor=&labelColor=&style=for-the-badge)](https://codepen.io/bucksmon)
 
   </div>
 </div>
