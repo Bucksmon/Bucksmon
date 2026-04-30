@@ -97,12 +97,12 @@
 
 <div align="left">
   <span>
-    <a href="https://discord.com/users/338369898487087107" target="_blank" style="display:inline-block; line-height:0;">
+    <a href="https://discord.com/users/338369898487087107" target="_blank" style="display:inline-block; line-height:0; text-decoration:none;">
       <img src="https://img.shields.io/badge/Angel_nunez4-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
     </a>
   </span>
   <span>
-    <a href="https://www.youtube.com/@CodeDripstar" target="_blank" style="display:inline-block; line-height:0;">
+    <a href="https://www.youtube.com/@CodeDripstar" target="_blank" style="display:inline-block; line-height:0; text-decoration:none;">
       <img src="https://img.shields.io/badge/Code%20Drip-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
     </a>
   </span>
