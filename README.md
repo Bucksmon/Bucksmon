@@ -19,53 +19,55 @@
   <h3 align="left"><strong>⚙️ Tech Stack</strong></h3>
   <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  </picture>
+  
   <img width="12" />
-  <picture>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  </picture>
+  
   <img width="12" />
-  <picture>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  </picture>
+  
   <img width="12" />
-  <picture>
+  
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  </picture>
+  
   <img width="12" />
-  <picture>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  </picture>
+ 
   <img width="12" />
-  <picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  </picture>
+
   <img width="12" />
-  <picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  </picture>
+
   <img width="12" />
-  <picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  </picture>
+
   <img width="12" />
-  <picture>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  </picture>
+
   <img width="12" />
-  <picture>
+  
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  </picture>
+ 
   <img width="12" />
-  <picture>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  </picture>
+  
   <img width="12" />
+  </picture>
   <picture>
     <source srcset="https://cdn.simpleicons.org/render/black" media="(prefers-color-scheme: light)">
     <img src="https://cdn.simpleicons.org/render/white" width="28">
-  </picture>
+  
   <img width="12" />
+  </picture>
    <picture>
     <source srcset="https://cdn.simpleicons.org/github/black" media="(prefers-color-scheme: light)">
     <img src="https://cdn.simpleicons.org/github/white" width="28">
