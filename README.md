@@ -1,8 +1,4 @@
 
-<h1 align="center" style="letter-spacing:2px; animation: fadeUp 0.8s ease;">
-  ⚠️ WARNING: WORK IN PROGRESS ⚠️
-</h1>
-
 
 <picture>
 <img src="bucks.svg" />
