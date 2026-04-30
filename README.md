@@ -76,7 +76,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="text-decoration: none;">
   
   <h3 align="left"><strong>👤 About me</strong></h3>
    <div align="left">
