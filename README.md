@@ -59,7 +59,14 @@
   <img width="12" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  
+ <img width="12" />  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
   </picture>
   <picture>
@@ -73,13 +80,7 @@
     <img src="https://cdn.simpleicons.org/github/white" width="28">
   </picture>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+ 
 </div>
 
 ###
@@ -87,7 +88,7 @@
 <div align="left">
   
   <h3 align="left"><strong>👤 About me</strong></h3>
-   <div align="left" height="35">
+   <div align="left" height="50">
  
 [![Discord](https://img.shields.io/static/v1?message=Angel_nunez4&logo=discord&label=&color=black&logoColor=7289DA&labelColor=&style=for-the-badge)](https://discord.com/users/338369898487087107)
 [![YouTube](https://img.shields.io/static/v1?message=Code%20Drip&logo=youtube&label=&color=black&logoColor=FF0000&labelColor=&style=for-the-badge)](https://www.youtube.com/@CodeDripstar)
