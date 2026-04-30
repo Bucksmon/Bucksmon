@@ -92,7 +92,7 @@
  
 [![Discord](https://img.shields.io/static/v1?message=Angel_nunez4&logo=discord&label=&color=black&logoColor=7289DA&labelColor=&style=for-the-badge)](https://discord.com/users/338369898487087107)
 [![YouTube](https://img.shields.io/static/v1?message=Code%20Drip&logo=youtube&label=&color=black&logoColor=FF0000&labelColor=&style=for-the-badge)](https://www.youtube.com/@CodeDripstar)
-![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=black&logoColor=FE7A16&labelColor=&style=for-the-badge)
+[![Stackoverflow](https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=black&logoColor=FE7A16&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/16184299/bucksmon)
 [![Codepen](https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=black&logoColor=&labelColor=&style=for-the-badge)](https://codepen.io/bucksmon)
 
   </div>
