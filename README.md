@@ -79,7 +79,7 @@
 <div align="left">
   
   <h3 align="left"><strong>👤 About me</strong></h3>
-   <div align="left">
+   <div align="left" height="35">
  
 [![Discord](https://img.shields.io/badge/Angel_nunez4-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/338369898487087107)
 [![YouTube](https://img.shields.io/badge/Code%20Drip-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeDripstar)
