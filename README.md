@@ -97,6 +97,10 @@
 
 
 
+[![Discord](https://img.shields.io/badge/Angel_nunez4-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/338369898487087107)
+[![YouTube](https://img.shields.io/badge/Code%20Drip-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeDripstar)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16184299/bucksmon)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bucksmon)
 
 
 <div align="left">
