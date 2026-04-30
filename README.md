@@ -79,7 +79,8 @@
 <div align="left">
   
   <h3 align="left"><strong>👤 About me</strong></h3>
-   <a href="https://discord.com/users/338369898487087107" target="_blank">
+   <div align="left">
+  <a href="https://discord.com/users/338369898487087107" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Angel_nunez4&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@CodeDripstar" target="_blank">
@@ -91,6 +92,7 @@
   <a href="https://codepen.io/bucksmon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
+</div>
 </div>
 
 ###
