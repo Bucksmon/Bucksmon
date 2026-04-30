@@ -77,22 +77,24 @@
 ###
 
 <div align="left">
+  
   <h3 align="left"><strong>👤 About me</strong></h3>
-  <div align="left">
-    <a href="https://discord.com/users/338369898487087107" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Angel_nunez4&logo=discord&color=7289DA&style=for-the-badge" height="35" style="vertical-align: middle;" />
-    </a>
-    <a href="https://www.youtube.com/@CodeDripstar" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Code%20Drip&logo=youtube&color=FF0000&style=for-the-badge" height="35" style="vertical-align: middle;" />
-    </a>
-    <a href="https://stackoverflow.com/users/16184299/bucksmon" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Stack%20overflow&logo=stackoverflow&color=FE7A16&logoColor=white&style=for-the-badge" height="35" style="vertical-align: middle;" />
-    </a>
-    <a href="https://codepen.io/bucksmon" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="35" style="vertical-align: middle;" />
-    </a>
-  </div>
+   <div align="left">
+  <a href="https://discord.com/users/338369898487087107" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Angel_nunez4&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@CodeDripstar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Code%20Drip&logo=youtube&label=&color=FF0000&logoColor=&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16184299/bucksmon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stack%20overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://codepen.io/bucksmon" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
 </div>
+</div>
+
 
 ###
 
