@@ -103,6 +103,7 @@
 <div align="left">
   <h3 align="left"><strong>📊 Stats</strong></h3>
   <picture>
+    <img src="https://streak-stats.demolab.com?user=Bucksmon&theme=transparent" />
   <img src="https://streak-stats.demolab.com?user=Bucksmon&theme=dark&hide_border=true" />
   </picture>
 </div>
