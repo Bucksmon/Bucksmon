@@ -9,6 +9,10 @@
 <picture>
 <img align="left" height="450" src="Image/Dark.png"  />
 </picture>
+<br>
+<br>
+<br>
+<br>
 
 ###
 <div align="left">
@@ -100,11 +104,6 @@
 
 ###
 
-<div align="left">
-  <h3 align="left"><strong>📊 Stats</strong></h3>
-  <picture>
-  <img src="https://streak-stats.demolab.com?user=Bucksmon&theme=transparent" />
-  </picture>
-</div>
+
 
 ###
